@@ -15,10 +15,10 @@ local.properties
 .classpath
 .settings/
 .loadpath
-
+*.ncrunchsolution
+*.ncrunch
 # External tool builders
 .externalToolBuilders/
-
 # Locally stored "Eclipse launch configurations"
 *.launch
 
