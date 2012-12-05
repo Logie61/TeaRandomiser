@@ -22,7 +22,20 @@ namespace TeaRandomiser
             Thread.Sleep(5000);
             Console.Clear();
             Thread.Sleep(5000);
-            Console.WriteLine("\nThe tea maker is!: {0} ", teamaker);
+            Console.WriteLine("\nThe tea maker is...");
+            Console.WriteLine(".");
+            Thread.Sleep(500);
+            Console.WriteLine(".");
+            Thread.Sleep(500);
+            Console.WriteLine(".");
+            Thread.Sleep(500);
+            Console.WriteLine(".");
+            Thread.Sleep(500);
+            Console.WriteLine(".");
+            Thread.Sleep(500);
+            Console.WriteLine(".");
+            Thread.Sleep(500);
+            Console.WriteLine(teamaker+"!");
             Console.Write("Press any key to exit...");
             Console.ReadKey(true);
         }
